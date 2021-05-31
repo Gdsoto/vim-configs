@@ -13,7 +13,7 @@ set laststatus=2
 set noshowmode
 
 " Extensiones "
-call plug#begin('E:\Desarrollo\Plug')
+call plug#begin('~/vim-plug')
 " Barra Inferior
 Plug 'itchyny/lightline.vim'
 " Temas
